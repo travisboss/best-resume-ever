@@ -63,6 +63,7 @@ knowledge: Also proficient in Adobe Photoshop and Illustrator, grew up bilingual
 projects:
 - name: best-resume-ever
   platform: Vue
+  timeperiod: February 2016
   description: 👔 💼 Build fast 🚀 and easy multiple beautiful resumes and create your best CV ever! Made with Vue and LESS.
   url: https://github.com/salomonelli/best-resume-ever
 
@@ -87,6 +88,6 @@ contact:
   city: New York
   website: johndoe.com
   github: johnyD
-# en, de, fr, pt, ca, cn, it, es, th, pt-br, ru, sv, id, hu, pl, ja, ka, nl, he, zh-tw, lt, ko, el
+# en, de, fr, pt, ca, cn, it, es, th, pt-br, ru, sv, id, hu, pl, ja, ka, nl, he, zh-tw, lt, ko, el, nb-no
 lang: en
 `
